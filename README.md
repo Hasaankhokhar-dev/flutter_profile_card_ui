@@ -1,16 +1,21 @@
-# task_1
+📱 Flutter Profile Card UI
+A simple and clean Flutter application that displays a profile card using basic Flutter widgets.
+This project is designed for beginners who want to learn how to work with UI elements such as:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Text
+Image
+ElevatedButton
+Container
+Row
+Column
+TextField
+🚀 Features
+Displays a profile picture using Image.network
+Shows user details (Name, Age, City)
+Includes a TextField for typing a message
+An ElevatedButton to display the typed message
+Clean UI built using Container, Row, and Column
+🛠️ Tech Used
+Flutter
+Dart
+Material Design components
